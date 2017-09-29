@@ -1,8 +1,11 @@
-body {
+body, html {
 	background-color: black;
+	background-image: url("https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/188426_432530426801562_976709646_n.jpg?oh=fef15c02adde1277311ab16cfb3388d8&oe=5A40B52D");
+	background-attachment: fixed;
 }
 
 .uk-accordion-title {
-	background-color: rgba(255,255,255,0.7);
+	background-color: rgba(255,255,255,0.4);
 	color: white;
+	border-color: black;
 }
