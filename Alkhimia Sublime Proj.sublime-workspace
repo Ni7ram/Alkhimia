@@ -1,0 +1,716 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"num_orden"
+			],
+			[
+				"ordenes",
+				"ordenes_model"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"posi",
+				"background-position"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"chec",
+				"checkTransaction"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"fecha",
+				"fechaReceta"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"uk-mo",
+				"uk-modal-dialog"
+			],
+			[
+				"count",
+				"count"
+			],
+			[
+				"le",
+				"legend\tTag"
+			],
+			[
+				"lejos_",
+				"lejos_material"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"uk-align",
+				"uk-align-center \tUIkit class"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"for",
+				"form_data"
+			],
+			[
+				"nombre",
+				"nombre_cliente"
+			],
+			[
+				"form",
+				"form_data"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"show",
+				"show_404"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"id",
+				"id_cliente"
+			],
+			[
+				"mode",
+				"clientes_model"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"uk-form",
+				"uk-form-width-mini"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"heig",
+				"min-height"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"background",
+				"background-attachment"
+			],
+			[
+				"navbar",
+				"navbar-default"
+			],
+			[
+				"to",
+				"border-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3079,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/nolocreo.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: istall",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Snippet: switch"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 332.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Desktop/Dev/Alkhimia (Web)/css",
+		"/G/Desktop/Dev/Alkhimia (Web)/js",
+		"/G/Desktop/Dev/Alkhimia (Web)/uikit"
+	],
+	"file_history":
+	[
+		"/G/Desktop/Dev/Alkhimia (Web)/index.html",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/config/routes.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/models/Opticas_model.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/models/Clientes_model.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/views/pages/home.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/views/templates/header.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/views/templates/success.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/controllers/Ordenes.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/SistemaAlumnos/index.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/controllers/Clientes.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/views/clientes/lista.php",
+		"/G/Trabajo/Otato/Web/index.html",
+		"/G/Trabajo/Otato/Web/email.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/config/autoload.php",
+		"/C/Users/Tincho/Dropbox/Apps/Heroku/optisimple/application/config/config.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/config/database.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/assets/css/mio.css",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/SistemaAlumnos/application/config/autoload.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/OptiSimple/application/config/config.php",
+		"/G/Descargas/OptiSimple 1.6 (Interfaz rediseñada, ayuda online, busqueda sigue fea) Julio 2016, despues de simplificarlo/OptiSimple/application/views/pages/home.php",
+		"/C/Bitnami/wampstack-5.6.30-1/apache2/htdocs/SistemaAlumnos/application/index.html",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/pages/home.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/pages/help.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/controllers/Clientes.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/templates/footer.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/controllers/Pages.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/clientes/agregar.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/clientes/lista.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/ordenes/crear.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/controllers/Api.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/clientes/ver.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/clientes/historial_nuevo.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/controllers/My_Controller.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/clientes/ver_nuevo.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/clientes/historial.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/clientes/editar.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/controllers/Ordenes.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/ordenes/ver.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/models/Clientes_model.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/templates/header.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/assets/css/mio.css",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/templates/menu.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/templates/menu_close.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/models/Ion_auth_model.php",
+		"/C/xampp/htdocs/VainillaLand/Vainilla.sublime-project",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/models/Opticas_model.php",
+		"/C/xampp/htdocs/ProyectoBase/assets/css/mio.css",
+		"/C/xampp/htdocs/ProyectoBase/application/models/News_model.php",
+		"/E/Trabajo/Fennoma/Codigo/models/Empresas_model.php",
+		"/E/Trabajo/Recursos/JavaScript.js",
+		"/C/Documents and Settings/Administrador/Escritorio/Fennoma/Codigo/views/empresas/index.php",
+		"/C/Documents and Settings/Administrador/Escritorio/Fennoma/Codigo/views/empresas/create.php",
+		"/C/Documents and Settings/Administrador/Escritorio/Fennoma/Codigo/views/empresas/update.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/config/routes.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/models/Ordenes_model.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/api/backup.php",
+		"/C/Documents and Settings/Administrador/Escritorio/Fennoma/Codigo/controllers/Api.php",
+		"/C/Documents and Settings/Administrador/Escritorio/Fennoma/Codigo/controllers/Empresas.php",
+		"/C/xampp/htdocs/jsonTestDecode.php",
+		"/C/xampp/htdocs/jsonTest.php",
+		"/C/xampp/htdocs/symfonyTest/web/app.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/controllers/Auth.php",
+		"/C/xampp/htdocs/symfonyTest/web/config.php",
+		"/C/xampp/htdocs/symfonyTest/composer.json",
+		"/D/Downloads/composer.json",
+		"/C/projects/symfony",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/assets/js/crearOrdenForm.js",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/auth/login.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/searchTest.json",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/searchTest.php",
+		"/C/xampp/htdocs/test.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/system/libraries/Session/Session.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/system/libraries/Session/SessionHandlerInterface.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/system/libraries/Session/Session_driver.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/config/config.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/system/cache/optsim_session6c1ff4f5bd917f83f78b00e62a5faa6b93f5a867",
+		"/F/OptiSimple/assets/search/resultado_clientes.json",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/Full Stack Developer.docx",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/assets/js/crearJs.js",
+		"/C/Documents and Settings/Administrador/Escritorio/hola.html",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/assets/js/uikit.min.js",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/assets/js/uikit.js",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-mio.css",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-login.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/ordenes/historial.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/language/spanish/auth_lang.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/language/spanish/ion_auth_lang.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/config/ion_auth.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/language/english/auth_lang.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/language/english/ion_auth_lang.php",
+		"/D/Downloads/delfina/jqgrid_bandas_sql.php",
+		"/D/Downloads/delfina/jqgrid_acciones_bandas.php",
+		"/D/Downloads/delfina/jqgrid.php",
+		"/D/Downloads/ZDPhysicsComponent.cpp",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-editar.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-agregar.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/3-crear.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/2-historial.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/3-ver.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-lista.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-Clientes.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/3-header.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-Ordenes_model.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/2-Ordenes.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-Ordenes.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-ver.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/2-ver.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-historial.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/2-crear.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-crear.php",
+		"/C/xampp/htdocs/OptiSimple/.ftpquota",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/1-Auth.php",
+		"/C/Documents and Settings/Administrador/Configuración local/Temp/2-Auth.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/controllers/News.php",
+		"/C/xampp/htdocs/JabadOnline/application/controllers/Usuarios.php",
+		"/C/xampp/htdocs/JabadOnline/application/views/usuarios/edit.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/ordenes/view.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/system/libraries/Form_validation.php",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/views/errors/html/error_404.php",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/application/models/ion_auth_model.php",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/assets/search/busqueda_clientes.json",
+		"/E/Trabajo/Recursos/slideout-footer/index.html",
+		"/E/Trabajo/Recursos/Slideout Footer/assets/css/style.css",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/assets/css/uikit.almost-flat.min.css",
+		"/E/Trabajo/Recursos/slideout-footer/assets/css/style.css",
+		"/C/xampp/htdocs/OptiSimple/OptiSimple/footer-reveal.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table ",
+			"list-panel",
+			"fecha",
+			"button",
+			"center",
+			"help",
+			"\n</",
+			"menu",
+			"borrar",
+			"search",
+			"cliente",
+			"h2",
+			"optisimple",
+			"hidden",
+			"ayuda",
+			"menu",
+			"offcan",
+			"Ayuda",
+			"men",
+			"menu",
+			"button",
+			"animatio",
+			"animation",
+			"pro",
+			"icon",
+			"modal",
+			"pro",
+			"modal",
+			"termin",
+			"footer",
+			"    ",
+			"footer",
+			"opto",
+			"irisOpti",
+			"opto",
+			"});\n",
+			"My_Controller",
+			"min",
+			"cel",
+			"cookie_path",
+			"title",
+			"40px",
+			"background: rgba(255,255,255,0.5)",
+			"Alt.",
+			"Di.",
+			"placeholder",
+			"lejos_total",
+			"modal",
+			"fade",
+			"shadow",
+			"wrapper",
+			"footer",
+			"shadow",
+			"moda",
+			"comprar",
+			"member",
+			"pro",
+			"pago",
+			"¿Realmente",
+			"Realmente",
+			"realmente",
+			"modal",
+			"<div class=\"uk-panel uk-panel-box list-panel\">",
+			"uk-badge-wa",
+			"info",
+			"chec",
+			"table a",
+			"lejos_otros",
+			"uk-alert-clo",
+			"UK-CLOSE",
+			"anotaciones",
+			"|<?",
+			"<?",
+			"Dist.",
+			"num_orde",
+			"dni",
+			"search",
+			"table",
+			"modal",
+			"Policarbonato",
+			"div",
+			"uk-button-pri",
+			"button",
+			"uk-modal",
+			"h1",
+			"panel",
+			"search",
+			"panel",
+			"este campo",
+			"pro",
+			"Seña",
+			"seña",
+			"nombre_cliente",
+			"Client",
+			"opticas",
+			"__construct",
+			"hover",
+			"sign",
+			"shadow",
+			"lock",
+			"notify",
+			"input",
+			"tooltip",
+			"pop",
+			"foote",
+			"footer",
+			"Otros..",
+			"otros..",
+			"otros",
+			"pago",
+			"button",
+			"auth",
+			"lejos_oi_alt",
+			"set_value",
+			"set_value(",
+			"_POST",
+			"name",
+			"hover",
+			";\n",
+			"error",
+			"span",
+			"get_client",
+			"modal",
+			"element.style",
+			"90",
+			"push",
+			"footer",
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"opacity: 0.5",
+			"Altura",
+			"Distancia",
+			"Policarb.",
+			"Se&ntilde;a",
+			"$orden",
+			"orden",
+			"orden[",
+			"orden",
+			"",
+			"files",
+			"",
+			"files"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 55.0
+	},
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Alkhimia Sublime Proj.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
